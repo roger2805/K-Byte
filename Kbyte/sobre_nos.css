@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #121212;
+    color: #fff;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.cabecario {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #000;
+    padding: 10px 20px;
+    border-bottom: 5px solid #800000;
+}
+
+.barradenavegacao a {
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+section {
+    padding: 20px;
+}
+
+.titulo{
+    background-color: #800000;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    width: 240px;
+}
+
+.caixa {
+    display: flex;
+    background-color: #292929;
+    margin: 20px 0;
+    padding: 15px;
+    border-radius: 5px;
+    align-items: center;
+}
+
+
